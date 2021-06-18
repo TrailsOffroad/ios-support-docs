@@ -7,4 +7,4 @@ tags: faq
 
 All Access is our membership....
 
-<img src="https://raw.githubusercontent.com/TrailsOffroad/ios-support-docs/Images/AllAccessBadge-Member.jpg" width="250">
+<img src="https://trailsoffroad.github.io/ios-support-docs/Images/AllAccessBadge-Member.jpg" width="250">
