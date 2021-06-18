@@ -1,9 +1,9 @@
 ---
-title: Buy blue boba
-tags: boba
+title: Manage Offline Data
+tags: offline guide
 ---
 
-# Buy blue boba
+# Managing your Offline Data
 
 Blue and yummy. Buy this at [google.com](https://google.com)
 

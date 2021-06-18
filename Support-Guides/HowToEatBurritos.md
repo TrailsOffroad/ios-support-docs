@@ -1,6 +1,6 @@
 ---
 title: How to eat burritos
-tags: fastFood
+tags: fastFood guide
 ---
 
 # How to eat burritos
