@@ -18,8 +18,8 @@ WRITE_README_FILE_PATH = "README.md"
 
 DEVELOPER_MODE = os.environ.get("DEVELOPER_MODE", False)
 if not DEVELOPER_MODE:
-    GITHUB_USERNAME = os.environ.get("GITHUB_ACTOR")
     FULL_GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY")
+    GITHUB_USERNAME = FULL_GITHUB_REPOSITORY.split("/")[0]
     GITHUB_REPOSITORY = FULL_GITHUB_REPOSITORY.split("/")[1]
     GITHUB_BRANCH = (
         os.environ.get("GITHUB_REF").split("/")[-1]
