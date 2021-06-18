@@ -47,21 +47,10 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://nitrag.github.io/ios-support-docs/404) (SupportDocs Integrated File) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/ios-support-docs/404.md))
-- [Apple smoothie](https://nitrag.github.io/ios-support-docs/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://nitrag.github.io/ios-support-docs/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://nitrag.github.io/ios-support-docs/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://nitrag.github.io/ios-support-docs/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://nitrag.github.io/ios-support-docs/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://nitrag.github.io/ios-support-docs/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://nitrag.github.io/ios-support-docs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://nitrag.github.io/ios-support-docs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://nitrag.github.io/ios-support-docs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [How to cook pizza](https://nitrag.github.io/ios-support-docs/Support-Guides/HowToCookPizza) (fastFood guide) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Support-Guides/HowToCookPizza.md))
+- [How to eat burritos](https://nitrag.github.io/ios-support-docs/Support-Guides/HowToEatBurritos) (fastFood guide) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Support-Guides/HowToEatBurritos.md))
+- [Manage Offline Data](https://nitrag.github.io/ios-support-docs/Support-Guides/Offline-Overview) (offline guide) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Support-Guides/Offline-Overview.md))
+- [What is All Access?](https://nitrag.github.io/ios-support-docs/Support-FAQ/AllAccess) (faq) ([edit](https://github.com/nitrag/ios-support-docs/edit/DataSource/Support-FAQ/AllAccess.md))
 
 
 ## Notes
