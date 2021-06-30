@@ -1,16 +1,13 @@
 ---
-title: Manage Offline Data
-tags: offline guide
+title: How to use the app Offline
+tags: guide
 ---
 
-# Managing your Offline Data
+# How to use the app Offline
 
-Blue and yummy. Buy this at [google.com](https://google.com)
+Offline, also know as without an internet connection, is 
+important to enthusiasts who need information on the go 
+regardless of location and within cellular (or satellite) 
+service.
 
-1. Eat
-2. Eat
-3. Eat
-4. Eat
-5. Eat
-
-![](https://raw.githubusercontent.com/aheze/SupportDocs/DataSource/Images/blueBoba.jpg)
+More info coming soon...

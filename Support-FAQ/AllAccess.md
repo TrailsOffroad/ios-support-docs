@@ -1,6 +1,6 @@
 ---
 title: What is All Access?
-tags: faq
+tags: faq, all-access
 --- 
 
 # What is All Access?
