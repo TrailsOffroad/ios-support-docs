@@ -47,10 +47,24 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://TrailsOffroad.github.io/ios-support-docs/404) (SupportDocs Integrated File) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/ios-support-docs/404.md))
-- [How to cook pizza](https://TrailsOffroad.github.io/ios-support-docs/Support-Guides/HowToCookPizza) (fastFood guide) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-Guides/HowToCookPizza.md))
-- [How to eat burritos](https://TrailsOffroad.github.io/ios-support-docs/Support-Guides/HowToEatBurritos) (fastFood guide) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-Guides/HowToEatBurritos.md))
-- [Manage Offline Data](https://TrailsOffroad.github.io/ios-support-docs/Support-Guides/Offline-Overview) (offline guide) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-Guides/Offline-Overview.md))
-- [What is All Access?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AllAccess) (faq) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/AllAccess.md))
+- [Can I use the app Offline?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Offline) (faq, offline) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Offline.md))
+- [How can I update my Credit Card?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AddCreditCard) (faq, account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/AddCreditCard.md))
+- [How can I update my Profile?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/UpdateProfile) (faq, account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/UpdateProfile.md))
+- [How do I cancel?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Cancel) (faq, account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Cancel.md))
+- [How do I download a trail?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/DownloadTracks) (faq, map, offline) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/DownloadTracks.md))
+- [How do I exit Follow mode?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/FollowExit) (faq, map, follow) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/FollowExit.md))
+- [How do I see my current GPS location?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/MyLocation) (faq, map) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/MyLocation.md))
+- [How many trails do you have?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/HowManyTrails) (faq) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/HowManyTrails.md))
+- [How to use the app Offline](https://TrailsOffroad.github.io/ios-support-docs/Support-Guides/Offline-Overview) (guide) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-Guides/Offline-Overview.md))
+- [I lost my password.](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/LostPassword) (faq, account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/LostPassword.md))
+- [What do the Colors mean?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Colors) (faq, map) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Colors.md))
+- [What does Follow do?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Follow-What) (faq, follow) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Follow-What.md))
+- [What does High Clearance mean?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/HighClearance) (faq) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/HighClearance.md))
+- [What is All Access?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AllAccess) (faq, all-access) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/AllAccess.md))
+- [Where can I read/write a Trail Review?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/TrailReview) (faq) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/TrailReview.md))
+- [While Following a trail why are waypoints skipping?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/FollowWaypointsSkipping) (faq, follow) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/FollowWaypointsSkipping.md))
+- [Why are there no trails near me?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/NoTrailsNearMe) (faq) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/NoTrailsNearMe.md))
+- [Will my login work on the app and website?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AccountWebsiteVSApp) (faq, account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/AccountWebsiteVSApp.md))
 
 
 ## Notes
