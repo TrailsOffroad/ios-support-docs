@@ -1,6 +1,6 @@
 ---
 title: What do the Trail Icons mean?
-tags: faq, trail
+tags: map, trail
 --- 
 
 # What do the Trail Icons mean?

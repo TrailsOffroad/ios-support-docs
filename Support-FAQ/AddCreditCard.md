@@ -1,6 +1,6 @@
 ---
 title: How can I update my Credit Card?
-tags: faq, account
+tags: account
 --- 
 
 # How can I update my Credit Card?

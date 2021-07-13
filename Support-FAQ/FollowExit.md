@@ -1,6 +1,6 @@
 ---
 title: How do I exit Follow mode?
-tags: faq, map, follow
+tags: map, follow
 --- 
 
 # How do I exit Follow mode?

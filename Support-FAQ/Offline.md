@@ -1,6 +1,6 @@
 ---
 title: Can I use the app Offline?
-tags: faq, offline
+tags: map, offline
 --- 
 
 # Can I use the app Offline?

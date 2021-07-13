@@ -1,6 +1,6 @@
 ---
 title: What is the difference between the app and the website?
-tags: faq, general
+tags: general
 --- 
 
 # What is the difference between the app and the website?

@@ -1,6 +1,6 @@
 ---
 title: While Following a trail why are waypoints skipping?
-tags: faq, follow
+tags: map, follow
 --- 
 
 # While Following a trail why are waypoints skipping?

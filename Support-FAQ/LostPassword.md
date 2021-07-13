@@ -1,6 +1,6 @@
 ---
 title: I lost my password.
-tags: faq, account
+tags: account
 --- 
 
 # I lost my password

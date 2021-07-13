@@ -1,6 +1,6 @@
 ---
 title: Where can I read/write a Trail Review?
-tags: faq
+tags: map, trail
 --- 
 
 # Where can I read/write a Trail Review?

@@ -1,6 +1,6 @@
 ---
 title: How do I see my current GPS location?
-tags: faq, map
+tags: map
 --- 
 
 # How do I see my current GPS location?

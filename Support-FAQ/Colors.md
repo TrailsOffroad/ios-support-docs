@@ -1,6 +1,6 @@
 ---
 title: What do the Colors mean?
-tags: faq, map
+tags: map
 --- 
 
 # What do the colors on the map mean?

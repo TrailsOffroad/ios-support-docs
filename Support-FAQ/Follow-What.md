@@ -1,6 +1,6 @@
 ---
 title: What does Follow do?
-tags: faq, follow
+tags: map, follow
 --- 
 
 # What does Follow do? 

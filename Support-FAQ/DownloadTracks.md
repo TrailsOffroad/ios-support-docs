@@ -1,6 +1,6 @@
 ---
 title: How do I download a trail?
-tags: faq, map, offline
+tags: map, offline
 --- 
 
 # How do I download a trail?

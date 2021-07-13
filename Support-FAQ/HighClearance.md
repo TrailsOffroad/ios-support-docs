@@ -1,6 +1,6 @@
 ---
 title: What does High Clearance mean?
-tags: faq
+tags: general
 --- 
 
 # What does High Clearance mean?

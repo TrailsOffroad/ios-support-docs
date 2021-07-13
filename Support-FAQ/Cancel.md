@@ -1,6 +1,6 @@
 ---
 title: How do I cancel?
-tags: faq, account
+tags: account
 --- 
 
 # How do I cancel?

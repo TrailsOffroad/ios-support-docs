@@ -1,6 +1,6 @@
 ---
 title: Why are there no trails near me?
-tags: faq
+tags: general
 --- 
 
 # Why are there no trails near me?

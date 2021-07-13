@@ -1,6 +1,6 @@
 ---
 title: Will my login work on the app and website?
-tags: faq, account
+tags: general
 --- 
 
 # Will my login work on the app and website?
