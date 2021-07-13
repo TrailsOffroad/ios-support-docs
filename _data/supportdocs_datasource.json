@@ -3,15 +3,13 @@
         "title": "Will my login work on the app and website?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AccountWebsiteVSApp",
         "tags": [
-            "faq",
-            "account"
+            "general"
         ]
     },
     {
         "title": "How can I update my Credit Card?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AddCreditCard",
         "tags": [
-            "faq",
             "account"
         ]
     },
@@ -19,15 +17,13 @@
         "title": "What is All Access?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AllAccess",
         "tags": [
-            "faq",
-            "all-access"
+            "general"
         ]
     },
     {
         "title": "How do I cancel?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Cancel",
         "tags": [
-            "faq",
             "account"
         ]
     },
@@ -35,7 +31,6 @@
         "title": "What do the Colors mean?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Colors",
         "tags": [
-            "faq",
             "map"
         ]
     },
@@ -43,7 +38,6 @@
         "title": "What is the difference between the app and the website?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Difference",
         "tags": [
-            "faq",
             "general"
         ]
     },
@@ -51,7 +45,6 @@
         "title": "How do I download a trail?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/DownloadTracks",
         "tags": [
-            "faq",
             "map",
             "offline"
         ]
@@ -60,7 +53,7 @@
         "title": "What does Follow do?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Follow-What",
         "tags": [
-            "faq",
+            "map",
             "follow"
         ]
     },
@@ -68,7 +61,6 @@
         "title": "How do I exit Follow mode?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/FollowExit",
         "tags": [
-            "faq",
             "map",
             "follow"
         ]
@@ -77,7 +69,7 @@
         "title": "While Following a trail why are waypoints skipping?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/FollowWaypointsSkipping",
         "tags": [
-            "faq",
+            "map",
             "follow"
         ]
     },
@@ -85,7 +77,7 @@
         "title": "What does High Clearance mean?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/HighClearance",
         "tags": [
-            "faq"
+            "general"
         ]
     },
     {
@@ -99,7 +91,6 @@
         "title": "I lost my password.",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/LostPassword",
         "tags": [
-            "faq",
             "account"
         ]
     },
@@ -107,7 +98,6 @@
         "title": "How do I see my current GPS location?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/MyLocation",
         "tags": [
-            "faq",
             "map"
         ]
     },
@@ -115,14 +105,14 @@
         "title": "Why are there no trails near me?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/NoTrailsNearMe",
         "tags": [
-            "faq"
+            "general"
         ]
     },
     {
         "title": "Can I use the app Offline?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Offline",
         "tags": [
-            "faq",
+            "map",
             "offline"
         ]
     },
@@ -137,7 +127,7 @@
         "title": "What do the Trail Icons mean?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/TrailIcons",
         "tags": [
-            "faq",
+            "map",
             "trail"
         ]
     },
@@ -145,14 +135,14 @@
         "title": "Where can I read/write a Trail Review?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/TrailReview",
         "tags": [
-            "faq"
+            "map",
+            "trail"
         ]
     },
     {
         "title": "How can I update my Profile?",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/UpdateProfile",
         "tags": [
-            "faq",
             "account"
         ]
     }
