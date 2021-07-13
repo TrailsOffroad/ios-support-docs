@@ -145,5 +145,12 @@
         "tags": [
             "account"
         ]
+    },
+    {
+        "title": "Trails disappear when zoomed in",
+        "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/ZoomDisappear",
+        "tags": [
+            "map"
+        ]
     }
 ]
