@@ -48,6 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://TrailsOffroad.github.io/ios-support-docs/404) (SupportDocs Integrated File) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/ios-support-docs/404.md))
 - [Can I use the app Offline?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Offline) (map, offline) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Offline.md))
+- [Does the app work in Landscape mode?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Landscape) (general) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Landscape.md))
 - [How can I update my Credit Card?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/AddCreditCard) (account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/AddCreditCard.md))
 - [How can I update my Profile?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/UpdateProfile) (account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/UpdateProfile.md))
 - [How do I cancel?](https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Cancel) (account) ([edit](https://github.com/TrailsOffroad/ios-support-docs/edit/DataSource/Support-FAQ/Cancel.md))

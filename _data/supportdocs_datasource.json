@@ -88,6 +88,13 @@
         ]
     },
     {
+        "title": "Does the app work in Landscape mode?",
+        "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/Landscape",
+        "tags": [
+            "general"
+        ]
+    },
+    {
         "title": "I lost my password.",
         "url": "https://TrailsOffroad.github.io/ios-support-docs/Support-FAQ/LostPassword",
         "tags": [
